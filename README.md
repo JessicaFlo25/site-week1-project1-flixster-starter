@@ -2,9 +2,9 @@
 
 ## Week 1 Assignment: Flixster
 
-Submitted by: **NAME**
+Submitted by: **Jessica Flores Olmos**
 
-Estimated time spent: **#** hours spent in total
+Estimated time spent: **48** hours spent in total
 
 Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
@@ -50,15 +50,15 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 - Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+The topics discussed in the labs did prepare me for this assignment. However,due to the fact that I did not get to work on Lab 3, I was not too familiar with working with the API and certain other properties like .result. However, I plan on reviewing Lab 3 this weekend and focusing on certain topics like the then chain.
 
 - If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+If I had more time, I would have added more features similar to one of my classmates and made it more accessible. For example, made it a certain color because of people who are colorblind like myself.
 
 - Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+Today I did not get to present my project, however, it made me reflect on the manner in which I start my assignments. I plan on working with my labs in a more tinmely manner and now with VS code set up, I do not have to worry about setting it up and wasting time.
 
 ### Open-source libraries used
 
@@ -67,3 +67,5 @@ Add your response here
 ### Shout out
 
 Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
+
+I am shouting out Angelica from my cohort because she always had energy and always encouraged me whenever I felt drained or lost all hope. I also appreciate one of the instructors from Cohort 2 (I did not catch his name) who sat with us and used monitors to show the code
