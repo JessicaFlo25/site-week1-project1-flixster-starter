@@ -1,53 +1,50 @@
 body{
-    color:brown;
+  color:black;
+  background-color: black;
 
 }
 
 h1{
     text-align: center;
-    color: grey;
-    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    font-style: oblique;
+    font-family:monospace;
+    font-variant: small-caps;
+    font-size: 45px;
 }
 
-.star {
-    margin: 10px;
-  }
-  .average {
-    font-weight: normal;
-    color: #F7BFBE;
-    text-align: center;
-  }
-  .name {
-    margin: 1px;
-    color: #F7BFBE;
-    font-weight: bold;
-    text-align: center;
-  }
-  img {
-    margin: 70px;
-    width: 225px;
-    height: auto;
-    border: 10px;
-    border-radius: 10%;
-    border-style: solid;
-    border-color: #D4AF37;
-  }
-  /* .movie {
-    margin: 100px;
-    display: inline-block;
-  } */
+h4{
+  font-size: 18px;
+  color:white;
 
-  .movies-grid {
-    display: flex;
-    flex-wrap: wrap;
-    text-align: center;
-    justify-content: center;
-  }
+}
+
+img {
+  margin: 20px;
+  width: 225px;
+  height: auto;
+  border: 10px;
+  border-radius: 10%;
+  border-style: solid;
+  border-color: #D4AF37;
+}
+
+.movies-grid {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+}
 
 #search-form{
-    text-align: center;
+  text-align: center;
+  color:white;
 }
 
 #button {
-    text-align: center;
+  text-align: center;
+}
+
+.LoadMore{
+  text-align: center;
 }

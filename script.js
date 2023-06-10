@@ -2,7 +2,7 @@ const myKey = 'e6baa9605095da55194db1446c5266c6'
 let pages = 1
 //let url = `https://api.themoviedb.org/3/movie/now_playing?api_key=${myKey}&page=${pages}`
 const movie_container = document.querySelector(".movies-grid");
-const loadBttn = document.getElementById("LoadMoreBttn")
+const loadBttn = document.getElementById("load-more-movies-btn")
 const state = {
     amountPages: 0,
     Searched: "",
@@ -16,10 +16,10 @@ const createMovie = (info) => {
     const name_of_class = "movieTitle";
     const imgURL = `https://www.themoviedb.org/t/p/original/${info.poster_path}`
     movie.innerHTML = `
-    <section>
-        <img src="${imgURL}" alt="${info.title}">
-        <h4>${info.title}<h4>
-        <p>🌟${info.vote_average} </p>
+    <section class = 'movie-card'>
+        <img id = 'movie-poster' src="${imgURL}" alt="${info.title}">
+        <h4 id = 'movie-title'>${info.title}<h4>
+        <p id = 'movie-votes'>🌟${info.vote_average} </p>
     </section>
     `
 

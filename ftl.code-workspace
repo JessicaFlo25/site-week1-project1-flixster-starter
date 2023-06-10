@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../ftl"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "site-week1-project1-flixster-starter"
+	}
+}
