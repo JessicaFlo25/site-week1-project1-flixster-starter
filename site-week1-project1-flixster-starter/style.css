@@ -1,0 +1,50 @@
+body{
+  color:black;
+  background-color: black;
+
+}
+
+h1{
+    text-align: center;
+    color:white;
+    font-style: oblique;
+    font-family:monospace;
+    font-variant: small-caps;
+    font-size: 45px;
+}
+
+h4{
+  font-size: 18px;
+  color:white;
+
+}
+
+img {
+  margin: 20px;
+  width: 225px;
+  height: auto;
+  border: 10px;
+  border-radius: 10%;
+  border-style: solid;
+  border-color: #D4AF37;
+}
+
+.movies-grid {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+}
+
+#search-form{
+  text-align: center;
+  color:white;
+}
+
+#button {
+  text-align: center;
+}
+
+.LoadMore{
+  text-align: center;
+}
