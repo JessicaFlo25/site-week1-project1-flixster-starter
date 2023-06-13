@@ -39,7 +39,9 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 - [ ] Implement anything else that you can get done to improve the app functionality!
 
 ### Walkthrough Video
-`https://www.loom.com/share/1b8559ed14634508a70b234d04c79418`
+<a href="https://www.loom.com/share/1b8559ed14634508a70b234d04c79418">
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/1b8559ed14634508a70b234d04c79418-with-play.gif">
+  </a>
 
 ### Reflection
 
